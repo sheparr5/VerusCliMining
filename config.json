@@ -16,12 +16,12 @@
 		"timeout": 150
 	}
 	],
-	"user": "RQJGcvqboXdDme3r2VKzaYViUnj6P8yQJz.OrbicBox04",
+	"user": "RRZDDHMMesi6q3rQyn43Nxfh78hfk8CwqP",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
-	"api-allow": "192.168.0.0/16",
+	"api-allow": "192.168.1.0/24",
 	"api-bind": "0.0.0.0:4068"
 }
